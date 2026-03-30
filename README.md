@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=dave%20bernal&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%2F%20Web%20Designer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=dave%20bernal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%2F%20Web%20Designer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=dabie16">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I design user-centered digital experiences with a focus on websites and visual identity. My work covers digital products, websites, and logo design, where I aim to create clean, modern, and user-friendly designs that clearly communicate ideas and purpose. I'm continuously improving my design skills through hands-on projects and real-world practice.
@@ -16,15 +16,6 @@
 - UI/UX & Web Product Design
 - Front-End Development
 - Design Systems & Prototyping
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dabie16&theme=radical&hide_border=true&cache_seconds=86400" alt="dabie16's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dabie16&theme=radical&radius=10" alt="dabie16's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
