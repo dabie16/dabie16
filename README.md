@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I design user-centered digital experiences with a focus on websites and visual identity. My work covers digital products, websites, and logo design, where I aim to create clean, modern, and user-friendly designs that clearly communicate ideas and purpose. I'm continuously improving my design skills through hands-on projects and real-world practice.
